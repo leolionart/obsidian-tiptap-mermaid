@@ -1,0 +1,19 @@
+.tiptap-mermaid-hidden {
+	display: none !important;
+	height: 0 !important;
+	overflow: hidden !important;
+}
+
+.tiptap-mermaid-container {
+	margin: 1em 0;
+}
+
+.tiptap-mermaid-error {
+	color: var(--text-error);
+	background: var(--background-modifier-error);
+	padding: 0.5em 1em;
+	border-radius: var(--radius-s);
+	font-family: var(--font-monospace);
+	font-size: var(--font-smaller);
+	white-space: pre-wrap;
+}

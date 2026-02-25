@@ -1,0 +1,10 @@
+{
+	"id": "tiptap-mermaid",
+	"name": "Tiptap Mermaid",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Renders :::mermaid container directives (Tiptap format) as Mermaid diagrams in Reading View",
+	"author": "leolionart",
+	"authorUrl": "https://github.com/leolionart",
+	"isDesktopOnly": false
+}
